@@ -1,0 +1,143 @@
+# depslib dependency file v1.0
+1550023514 source:d:\codes\five-in-a-row2\testtest.cpp
+	<stdio.h>
+	<graphics.h>
+
+1550140647 source:d:\codes\five-in-a-row2\draw.cpp
+	"graphics.h"
+	<stdio.h>
+	"define.h"
+
+1550152257 source:d:\codes\five-in-a-row2\main.cpp
+	<graphics.h>
+	"testtest.h"
+	<stdio.h>
+	"define.h"
+	"draw.h"
+	"mousehit.h"
+	"check.h"
+	"robotbrain.h"
+
+1547906099 d:\codes\five-in-a-row2\testtest.h
+
+1550124819 d:\codes\five-in-a-row2\define.h
+
+1550140647 d:\codes\five-in-a-row2\draw.h
+	"define.h"
+
+1550033218 d:\codes\five-in-a-row2\mousehit.h
+
+1550033239 source:d:\codes\five-in-a-row2\mousehit.cpp
+	"graphics.h"
+	<stdio.h>
+	"define.h"
+
+1550197653 source:d:\codes\five-in-a-row2\check.cpp
+	"define.h"
+	"stdio.h"
+	"check.h"
+	"graphics.h"
+	"draw.h"
+
+1550153900 d:\codes\five-in-a-row2\check.h
+
+1550154298 source:d:\codes\five-in-a-row2\robotbrain.cpp
+	"graphics.h"
+	"draw.h"
+	"define.h"
+	"check.h"
+	<stdio.h>
+	"robotbrain.h"
+
+1550128053 d:\codes\five-in-a-row2\robotbrain.h
+
+1550140648 source:c:\users\administrator\desktop\five-in-a-row2\draw.cpp
+	"graphics.h"
+	<stdio.h>
+	"define.h"
+
+1550124820 c:\users\administrator\desktop\five-in-a-row2\define.h
+
+1550033240 source:c:\users\administrator\desktop\five-in-a-row2\mousehit.cpp
+	"graphics.h"
+	<stdio.h>
+	"define.h"
+
+1550201138 source:c:\users\administrator\desktop\five-in-a-row2\robotbrain.cpp
+	"graphics.h"
+	"draw.h"
+	"define.h"
+	"check.h"
+	<stdio.h>
+	"robotbrain.h"
+
+1550140648 c:\users\administrator\desktop\five-in-a-row2\draw.h
+	"define.h"
+
+1550153902 c:\users\administrator\desktop\five-in-a-row2\check.h
+
+1550128054 c:\users\administrator\desktop\five-in-a-row2\robotbrain.h
+
+1550023516 source:c:\users\administrator\desktop\five-in-a-row2\testtest.cpp
+	<stdio.h>
+	<graphics.h>
+
+1550201746 source:c:\users\administrator\desktop\five-in-a-row2\check.cpp
+	"define.h"
+	"stdio.h"
+	"check.h"
+	"graphics.h"
+	"draw.h"
+
+1550201746 source:d:\collection\codes\c语言实践作业\five-in-a-row2\check.cpp
+	"define.h"
+	"stdio.h"
+	"check.h"
+	"graphics.h"
+	"draw.h"
+
+1550124820 d:\collection\codes\c语言实践作业\five-in-a-row2\define.h
+
+1550153902 d:\collection\codes\c语言实践作业\five-in-a-row2\check.h
+
+1550140648 d:\collection\codes\c语言实践作业\five-in-a-row2\draw.h
+	"define.h"
+
+1550140648 source:d:\collection\codes\c语言实践作业\five-in-a-row2\draw.cpp
+	"graphics.h"
+	<stdio.h>
+	"define.h"
+
+1550731350 source:d:\collection\codes\c语言实践作业\five-in-a-row2\main.cpp
+	<graphics.h>
+	"testtest.h"
+	<stdio.h>
+	"define.h"
+	"draw.h"
+	"mousehit.h"
+	"check.h"
+	"robotbrain.h"
+
+1547906100 d:\collection\codes\c语言实践作业\five-in-a-row2\testtest.h
+
+1550033220 d:\collection\codes\c语言实践作业\five-in-a-row2\mousehit.h
+
+1550128054 d:\collection\codes\c语言实践作业\five-in-a-row2\robotbrain.h
+
+1550033240 source:d:\collection\codes\c语言实践作业\five-in-a-row2\mousehit.cpp
+	"graphics.h"
+	<stdio.h>
+	"define.h"
+
+1550201138 source:d:\collection\codes\c语言实践作业\five-in-a-row2\robotbrain.cpp
+	"graphics.h"
+	"draw.h"
+	"define.h"
+	"check.h"
+	<stdio.h>
+	"robotbrain.h"
+
+1550023516 source:d:\collection\codes\c语言实践作业\five-in-a-row2\testtest.cpp
+	<stdio.h>
+	<graphics.h>
+
